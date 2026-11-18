@@ -1,0 +1,11 @@
+{
+  "id": "exampleapp_manifest",
+  "packages": { "foo": "1.0",
+                "bar": "2.0",
+                "baz": ""
+  },
+  "remote_files": { "/tmp/honk.tar.gz": "http://example.com/honk.tar.gz",
+                    "/tmp/bonk.tar.gz": "http://example.com/bonk.tar.gz",
+                    "/tmp/derp.derp": "derp://derp.derp/derp.derp"
+  }
+}
